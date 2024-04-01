@@ -1,0 +1,70 @@
+header {
+    background-color: rgb(0, 2, 110);
+    grid-template-columns: 1 / 6;
+    
+}
+main {
+    background-image: url(https://thumbs.dreamstime.com/b/la-plantilla-del-logotipo-del-coche-de-la-venta-auto-coches-autos-logotipo-del-coche-velocidad-automotriz-auto-mantiene-el-94856208.jpg);
+    height: 50em
+}
+.VentaCoche {
+    display: grid;
+    color: aqua;
+}
+body {
+    background-color: black;
+    width: 100%;
+}
+article {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.navbar-collapse {
+    background-color: rgb(0, 2, 110);
+}
+
+.navbar-brand {
+    background-color: rgb(0, 2, 110);
+    color: rgb(0, 255, 255);
+}
+
+.card {
+    background-color: rgb(0, 2, 150);
+}
+
+.form-control {
+    background-color: rgb(0, 3, 209);
+}
+
+.btn-outline-success {
+    background-color: rgb(0, 2, 110);
+    color: aqua;
+}
+
+p {
+    color: aqua
+}
+
+.nav-link {
+    color: aqua;
+}
+
+.card-title {
+    color: white;
+}
+
+.container-fluid {
+    background-color: rgb(0, 2, 110);
+}
+
+.dropdown-menu {
+    background-color: rgb(0, 2, 110);
+}
+
+.dropdown-item {
+    color: aqua;
+}
